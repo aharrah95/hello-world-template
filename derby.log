@@ -1,6 +1,6 @@
 ----------------------------------------------------------------
-Sat Feb 12 17:06:06 CST 2022:
-Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance a816c00e-017e-f02f-b68f-000002dbeb68 
+Sat Feb 12 17:12:46 CST 2022:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance a816c00e-017e-f035-d3a6-00000466b190 
 on database directory C:\Users\dharr\IdeaProjects\hello-world-template\metastore_db with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@368239c8 
 Loaded from file:/C:/Users/dharr/AppData/Local/Coursier/cache/v1/https/repo1.maven.org/maven2/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
 java.vendor=Amazon.com Inc.
