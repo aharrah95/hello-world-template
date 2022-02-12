@@ -53,7 +53,7 @@ object MainPage {
     println("--");
 
     val box = 1
-    while (box == 1) {
+    while (box < 6) {
 
       println("Welcome, please select a Scenario to view.")
       println("1. Scenario 1")
@@ -151,7 +151,7 @@ object MainPage {
 
 
       else {
-        //val myBoolean = false;
+        val myBoolean = false;
         println("Thank you, come again!")
 
       }
